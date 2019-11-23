@@ -3,8 +3,10 @@ name = "basechem"
 version = "0.1.0"
 authors = ["Maximilian Goisser <goisser94@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "Minimalistic crate of base types for chemistry"
+keywords = ["chemistry", "chemical", "elements"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/hobofan/basechem"
 
 [dependencies]
 strum = "0.16.0"
